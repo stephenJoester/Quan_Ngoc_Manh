@@ -83,7 +83,7 @@ const Header = () => {
                   </Link>
                 </>
               ) : (
-                <span style={{ padding: 10 }}>Cart is Empty!</span>
+                <span style={{ padding: 10 }}>Giỏ hàng trống!</span>
               )}
             </Dropdown.Menu>
           </Dropdown>
