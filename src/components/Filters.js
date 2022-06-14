@@ -12,7 +12,7 @@ const Filters = () => {
 
   return (
     <div className="filters">
-      <span className="title">Filter Sản phẩm</span>
+      <span className="title">Bộ lọc</span>
       <span>
         <Form.Check
           inline
@@ -96,7 +96,7 @@ const Filters = () => {
           })
         }
       >
-        Clear Filters
+        Clear Bộ lọc
       </Button>
     </div>
   );
